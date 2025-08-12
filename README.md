@@ -1,4 +1,4 @@
-## Hi there 👋
+## Slow but Steady 🏃🏼‍♂️
 
 [![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeonghwanJay)](https://github.com/jeonghwanJay/github-readme-stats)
 <!--
